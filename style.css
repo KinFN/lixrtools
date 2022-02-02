@@ -631,3 +631,7 @@ body .footer .content > div .image {
   border-bottom: 2px solid #8167A9;
   border-left: 2px solid #8167A9;
 }
+.button:hover {
+	background-color: #8167A9;
+	color: #1f2029;
+}
