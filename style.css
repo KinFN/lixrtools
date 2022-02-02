@@ -630,10 +630,12 @@ body .footer .content > div .image {
   border-right: 2px solid #8167A9;
   border-bottom: 2px solid #8167A9;
   border-left: 2px solid #8167A9;
-  margin: 1000px;
   height: 50vh;
 }
 .button:hover {
 	background-color: #8167A9;
 	color: #1f2029;
 }
+.tbody {
+     border-top: 100px solid #1f2029;
+   }
