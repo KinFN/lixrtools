@@ -625,12 +625,12 @@ body .footer .content > div .image {
   background-color: #1f2029;
   border-radius: 1000px;
   color: #8167A9;
-  padding: 2px 6px 6px 2px;
+  padding: 12px 16px 16px 12px;
   border-top: 2px solid #8167A9;
   border-right: 2px solid #8167A9;
   border-bottom: 2px solid #8167A9;
   border-left: 2px solid #8167A9;
-  margin: 100px;
+  margin: 1000px;
 }
 .button:hover {
 	background-color: #8167A9;
