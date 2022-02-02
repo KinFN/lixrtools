@@ -620,16 +620,17 @@ body .footer .content > div .image {
   }
 }
 .button {
-  font: bold 17px Arial;
+  font: bold 30px Arial;
   text-decoration: none;
   background-color: #1f2029;
-  border-radius: 52px;
+  border-radius: 1000px;
   color: #8167A9;
-  padding: 100px;
+  padding: 2px 6px 6px 2px;
   border-top: 2px solid #8167A9;
   border-right: 2px solid #8167A9;
   border-bottom: 2px solid #8167A9;
   border-left: 2px solid #8167A9;
+  margin: 100px;
 }
 .button:hover {
 	background-color: #8167A9;
